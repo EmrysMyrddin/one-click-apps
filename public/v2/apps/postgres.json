@@ -2,7 +2,7 @@
     "captainVersion": "2",
     "displayName": "PostgreSQL",
     "documentation": "Taken from https://docs.docker.com/compose/mysql/ port mapping removed from WP as it's not needed",
-    "logo": "/media/img/about/press/elephant.png",
+    "logo": "https://www.postgresql.org/media/img/about/press/elephant.png",
     "dockerCompose": {
         "version": "3.3",
         "services": {
